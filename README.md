@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Priyanshu+%F0%9F%91%8B;19-year-old+BCA+Student;Full-Stack+Developer+%26+Red+Teaming+Enthusiast;Cloud+%26+Cyber+Security+Specialization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=680&lines=Hi+there!+I'm+Priyanshu+%F0%9F%91%8B;19-year-old+BCA+%7C+Cloud+%26+Cyber+Security;Full-Stack+Developer+%26+Red+Teaming+Enthusiast;Building+%26+Breaking+Things+🔥" alt="Typing SVG" />
 </div>
 
 ---
@@ -17,16 +17,16 @@ I build practical full-stack applications and mobile apps while always looking a
 
 ### 🚀 Live Projects
 
-Here are some of my deployed projects — feel free to try them:
+Here are some of my deployed projects - feel free to try them live:
 
-- **[Chattr](https://chattr-x.onrender.com/)** — My favorite: Anonymous global chat with no login/signup. Comes with hidden hacker commands.  
-- **[Kaizen Log](https://kaizen-log.vercel.app/)** — Stock market options trading journal with charts, graphs, and daily trade logging.  
-- **[File Board](https://file-board.onrender.com/)** — Fast temporary file sharing (auto-deletes after 15 minutes).  
-- **[DocSpace](https://docspace-x.vercel.app/)** — Dual-mode file sharing: private (login) or public vault.  
-- **[P2P Chat](https://p2p-chat-x.onrender.com/)** — Real-time one-on-one chat (create account, no email needed, no history saved — perfect for sneaky talks).  
-- **[Arkon Ruler](https://arkon-ruler.onrender.com/)** — C2 center controlling both mobile app and PC executable.  
-- **[FocusLock](https://github.com/Priyanshu-x/focuslock/blob/main/FocusLock.apk)** — Powerful Android app that truly locks your phone until the timer ends (not a normal timer).  
-- **[SG Campus Connect](https://sgsu.vercel.app/)** — College community platform (under construction).
+- **[Chattr](https://chattr-x.onrender.com/)** : My favorite: Anonymous global chat with no login/signup + hidden hacker commands.  
+- **[Kaizen Log](https://kaizen-log.vercel.app/)** : Stock market options trading journal with charts, graphs & daily trade logging.  
+- **[File Board](https://file-board.onrender.com/)** : Super-fast temporary file sharing (auto-deletes after 15 minutes).  
+- **[DocSpace](https://docspace-x.vercel.app/)** : Dual mode file sharing: private (login) or public vault.  
+- **[P2P Chat](https://p2p-chat-x.onrender.com/)** : Real time one-on-one chat (no email, no history - perfect for sneaky talks).  
+- **[Arkon Ruler](https://arkon-ruler.onrender.com/)** : C2 center controlling both mobile app and PC executable.  
+- **[FocusLock](https://github.com/Priyanshu-x/focuslock/blob/main/FocusLock.apk)** : Powerful Android app that truly locks your phone until the timer ends.  
+- **[SGSU](https://sgsu.vercel.app/)** : College community platform (under construction).
 
 ### 🛠️ Tech Stack & Tools
 
@@ -40,11 +40,17 @@ Here are some of my deployed projects — feel free to try them:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Databases & Cloud**  
-MySQL • MongoDB • PostgreSQL • **GCP** • Docker
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Cyber Security & Pentesting Tools**  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-Nmap • Wireshark • Burp Suite • Wi-Fi Penetration Testing • Web Vulnerabilities
+![Nmap](https://img.shields.io/badge/Nmap-4C9A91?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-00A4E0?style=for-the-badge&logo=wireshark&logoColor=white)
 
 **Others**  
 Figma • Canva • Git • Ollama • Cisco Packet Tracer • PyCharm
@@ -55,8 +61,8 @@ Kali Linux • Ubuntu • RedHat • Windows • Tails OS
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-x&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-x&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-x&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-x&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-x&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
