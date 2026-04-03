@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Priyanshu+%F0%9F%91%8B;BCA+%7C+Cloud+%26+Cyber+Security;Full-Stack+Dev+%26+Red+Teamer;Building+%26+Breaking+Things+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Priyanshu+%F0%9F%91%8B;19-year-old+BCA+%7C+Cloud+%26+Cyber+Security;Full-Stack+Dev+%26+Red+Teamer;Building+%26+Breaking+Things+🔥" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshu-x&label=Profile+Views&color=00FF9F&style=for-the-badge" alt="Visitor Count" />
 </div>
 
 ---
