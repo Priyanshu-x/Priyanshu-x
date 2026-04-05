@@ -72,7 +72,7 @@ Kali Linux • Ubuntu • RedHat • Windows • Tails OS
 
 ### 🌐 Connect With Me
 
-- **Portfolio** → [priyanshu-x.vercel.app](https://priyanshu-x.vercel.app)
+- **Portfolio** → [priyanshu-x.vercel.app](https://priyanshu-x.lovable.app)
 - **LinkedIn** → [linkedin.com/in/priyanshu-x](https://www.linkedin.com/in/priyanshu-x/)
 - **Email** → [priyanshu18181@gmail.com](mailto:priyanshu18181@gmail.com)
 
