@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Priyanshu+%F0%9F%91%8B;19-year-old+BCA+%7C+Cloud+%26+Cyber+Security;Full-Stack+Dev+%26+Red+Teamer;Building+%26+Breaking+Things+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Priyanshu+%F0%9F%91%8B;20-year-old+BCA+%7C+Cloud+%26+Cyber+Security;Full-Stack+Dev+%26+Red+Teamer;Building+%26+Breaking+Things+🔥" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,12 +10,12 @@
 
 ### 👨‍💻 About Me
 
-I'm **Priyanshu**, a **19-year-old** second-year **BCA** student from **Bhopal, Madhya Pradesh, India**, specializing in **Cloud Computing and Cyber Security**.
+I'm **Priyanshu**, a **20-year-old** second-year **BCA** student from **Bhopal, Madhya Pradesh, India**, specializing in **Cloud Computing and Cyber Security**.
 
 I build practical full-stack applications and mobile apps while always looking at technology through a **security-first lens**. My goal is to combine development skills with offensive security knowledge to become a strong **Red Teamer**.
 
 - 🔭 Currently strengthening **web penetration testing** and exploring more **Red Team** techniques.
-- 🌱 Learning advanced web vulnerabilities, cloud security, and Japanese (Duolingo streak: **490 days** 🔥).
+- 🌱 Learning advanced web vulnerabilities, cloud security, and Japanese (Duolingo streak: **495+ days ** 🔥).
 - 💰 Earned **₹50,000+** through freelancing work.
 - 🛠️ I experiment with almost every new technology that comes out.
 
