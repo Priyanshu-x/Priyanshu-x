@@ -15,7 +15,7 @@ I'm **Priyanshu**, a **20-year-old** second-year **BCA** student from **Bhopal, 
 I build practical full-stack applications and mobile apps while always looking at technology through a **security-first lens**. My goal is to combine development skills with offensive security knowledge to become a strong **Red Teamer**.
 
 - 🔭 Currently strengthening **web penetration testing** and exploring more **Red Team** techniques.
-- 🌱 Learning advanced web vulnerabilities, cloud security, and Japanese (Duolingo streak: **495+ days ** 🔥).
+- 🌱 Learning advanced web vulnerabilities, cloud security, and Japanese (Duolingo streak: **500+ days** 🔥).
 - 💰 Earned **₹50,000+** through freelancing work.
 - 🛠️ I experiment with almost every new technology that comes out.
 
