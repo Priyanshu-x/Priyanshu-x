@@ -24,13 +24,13 @@ I build practical full-stack applications and mobile apps while always looking a
 Here are some of my deployed projects — feel free to try them live:
 
 - **[Chattr](https://chattr-x.onrender.com/)** — My favorite: Anonymous global chat with no login/signup + hidden hacker commands.  
-- **[Kaizen Log](https://kaizen-log.vercel.app/)** — Stock market options trading journal with charts, graphs & daily trade logging.  
+- **[Kaizen](https://kaizen-log.vercel.app/)** — Stock market options trading journal with charts, graphs & daily trade logging.  
 - **[File Board](https://file-board.onrender.com/)** — Super-fast temporary file sharing (auto-deletes after 15 minutes).  
 - **[DocSpace](https://docspace-x.vercel.app/)** — Dual-mode file sharing: private (login) or public vault.  
 - **[P2P Chat](https://p2p-chat-x.onrender.com/)** — Real-time one-on-one chat (no email, no history — perfect for sneaky talks).  
 - **[Arkon Ruler](https://arkon-ruler.onrender.com/)** — C2 center controlling both mobile app and PC executable.  
 - **[FocusLock](https://github.com/Priyanshu-x/focuslock/blob/main/FocusLock.apk)** — Powerful Android app that truly locks your phone until the timer ends.  
-- **[SG Campus Connect](https://sgsu.vercel.app/)** — College community platform (under construction).
+- **[SGSU Campus Connect](https://sgsu.vercel.app/)** — College community platform (under construction).
 
 ### 🛠️ Tech Stack & Tools
 
