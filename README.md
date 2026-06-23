@@ -7,6 +7,13 @@
 </div>
 
 ---
+<br>
+<div align="center">
+  <a href="https://priyanshu-x.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF9F" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/priyanshu-x/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9F" alt="LinkedIn"/></a>
+  <a href="mailto:priyanshu18181@gmail.com"><img src="https://img.shields.io/badge/SECURE_COMMS-000000?style=for-the-badge&logo=gmail&logoColor=00FF9F" alt="Email"/></a>
+</div>
+<br>
 
 ### 👨‍💻 About Me
 
@@ -19,18 +26,56 @@ I build practical full-stack applications and mobile apps while always looking a
 - 💰 Earned **₹50,000+** through freelancing work.
 - 🛠️ I experiment with almost every new technology that comes out.
 
-### 🚀 Live Projects
+### 📂 `DIR /PROJECTS`
 
-Here are some of my deployed projects — feel free to try them live:
+*Deployed applications demonstrating real-world utility and security-first engineering.*
 
-- **[Chattr](https://chattr-x.onrender.com/)** — My favorite: Anonymous global chat with no login/signup + hidden hacker commands.  
-- **[Kaizen](https://kaizen-log.vercel.app/)** — Stock market options trading journal with charts, graphs & daily trade logging.  
-- **[File Board](https://file-board.onrender.com/)** — Super-fast temporary file sharing (auto-deletes after 15 minutes).  
-- **[DocSpace](https://docspace-x.vercel.app/)** — Dual-mode file sharing: private (login) or public vault.  
-- **[P2P Chat](https://p2p-chat-x.onrender.com/)** — Real-time one-on-one chat (no email, no history — perfect for sneaky talks).  
-- **[Arkon Ruler](https://arkon-ruler.onrender.com/)** — C2 center controlling both mobile app and PC executable.  
-- **[FocusLock](https://github.com/Priyanshu-x/focuslock/blob/main/FocusLock.apk)** — Powerful Android app that truly locks your phone until the timer ends.  
-- **[SGSU Campus Connect](https://sgsu.vercel.app/)** — College community platform (under construction).
+<br>
+
+**<a href="https://chattr-x.onrender.com/">Chattr</a>** &nbsp;&middot;&nbsp; <i>Anonymous global chat with no login/signup + hidden hacker commands.</i>
+<br>
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=00FF9F" />
+<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=00FF9F" />
+<img src="https://img.shields.io/badge/-Socket.io-000000?style=flat-square&logo=socket.io&logoColor=00FF9F" />
+
+**<a href="https://kaizen-log.vercel.app/">Kaizen</a>** &nbsp;&middot;&nbsp; <i>Stock market options trading journal with charts, graphs & daily trade logging.</i>
+<br>
+<img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF9F" />
+<img src="https://img.shields.io/badge/-TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=00FF9F" />
+<img src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00FF9F" />
+
+**<a href="https://file-board.onrender.com/">File Board</a>** &nbsp;&middot;&nbsp; <i>Super-fast temporary file sharing (auto-deletes after 15 minutes).</i>
+<br>
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=00FF9F" />
+<img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF9F" />
+
+**<a href="https://docspace-x.vercel.app/">DocSpace</a>** &nbsp;&middot;&nbsp; <i>Dual-mode file sharing: private (login) or public vault.</i>
+<br>
+<img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00FF9F" />
+<img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=00FF9F" />
+<img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=00FF9F" />
+
+**<a href="https://p2p-chat-x.onrender.com/">P2P Chat</a>** &nbsp;&middot;&nbsp; <i>Real-time one-on-one chat (no email, no history — perfect for sneaky talks).</i>
+<br>
+<img src="https://img.shields.io/badge/-WebRTC-000000?style=flat-square&logo=webrtc&logoColor=00FF9F" />
+<img src="https://img.shields.io/badge/-Socket.io-000000?style=flat-square&logo=socket.io&logoColor=00FF9F" />
+
+**<a href="https://arkon-ruler.onrender.com/">Arkon Ruler</a>** &nbsp;&middot;&nbsp; <i>C2 center controlling both mobile app and PC executable.</i>
+<br>
+<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=00FF9F" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=00FF9F" />
+<img src="https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=00FF9F" />
+
+**<a href="https://github.com/Priyanshu-x/focuslock/blob/main/FocusLock.apk">FocusLock</a>** &nbsp;&middot;&nbsp; <i>Powerful Android app that truly locks your phone until the timer ends.</i>
+<br>
+<img src="https://img.shields.io/badge/-Flutter-000000?style=flat-square&logo=flutter&logoColor=00FF9F" />
+<img src="https://img.shields.io/badge/-Android-000000?style=flat-square&logo=android&logoColor=00FF9F" />
+
+**<a href="https://sgsu.vercel.app/">SGSU Campus Connect</a>** &nbsp;&middot;&nbsp; <i>College community platform (under construction).</i>
+<br>
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=00FF9F" />
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -65,18 +110,10 @@ Kali Linux • Ubuntu • RedHat • Windows • Tails OS
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-x&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-x&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-x&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-### 🌐 Connect With Me
-
-- **Portfolio** → [priyanshu-x.vercel.app](https://priyanshu-x.vercel.app)
-- **LinkedIn** → [linkedin.com/in/priyanshu-x](https://www.linkedin.com/in/priyanshu-x/)
-- **Email** → [priyanshu18181@gmail.com](mailto:priyanshu18181@gmail.com)
-
----
 
 **Open to Red Team / CTF collaborations and internships** in cybersecurity, cloud security, or full-stack development.
 
