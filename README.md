@@ -14,7 +14,8 @@
   <a href="mailto:priyanshu18181@gmail.com"><img src="https://img.shields.io/badge/SECURE_COMMS-000000?style=for-the-badge&logo=gmail&logoColor=00FF9F" alt="Email"/></a>
 </div>
 <br>
-
+https://ko-fi.com/prika
+<br> <br>
 ### 👨‍💻 About Me
 
 I'm **Priyanshu**, a second-year **BCA** student from **Bhopal, Madhya Pradesh, India**, specializing in **Cloud Computing and Cyber Security**.
