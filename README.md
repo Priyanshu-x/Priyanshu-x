@@ -18,7 +18,7 @@ https://ko-fi.com/prika  [In case if you wanna support me 😁]
 <br> <br>
 ### 👨‍💻 About Me
 
-I'm **Priyanshu**, a second-year **BCA** student from **Bhopal, Madhya Pradesh, India**, specializing in **Cloud Computing and Cyber Security**.
+I'm **Priyanshu**, a final-year **BCA** student from **Bhopal, Madhya Pradesh, India**, specializing in **Cloud Computing and Cyber Security**.
 
 I build practical full-stack applications and mobile apps while always looking at technology through a **security-first lens**. My goal is to combine development skills with offensive security knowledge to become a strong **Red Teamer**.
 
